@@ -1,0 +1,23 @@
+{
+  "name": "xgov-eleventy-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/htmlandbacon/xgov-eleventy-sample.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/htmlandbacon/xgov-eleventy-sample/issues"
+  },
+  "homepage": "https://github.com/htmlandbacon/xgov-eleventy-sample#readme",
+  "dependencies": {
+    "@11ty/eleventy": "1.0.0",
+    "govuk-eleventy-plugin": "1.0.5"
+  }
+}
