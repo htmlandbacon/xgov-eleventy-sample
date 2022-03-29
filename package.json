@@ -1,21 +1,24 @@
 {
-  "name": "xgov-eleventy-sample",
+  "name": "dwp-health-data-glossary",
   "version": "1.0.0",
-  "description": "",
+  "engines": {
+    "node": "16.11.1"
+  },
+  "description": "Front-end for a controlled vocabulary / glossary of measurement language in DWP Digital Health and Disability",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/htmlandbacon/xgov-eleventy-sample.git"
+    "url": "git+https://github.com/danhowarthdwp/dwp-health-data-glossary.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/htmlandbacon/xgov-eleventy-sample/issues"
+    "url": "https://github.com/danhowarthdwp/dwp-health-data-glossary/issues"
   },
-  "homepage": "https://github.com/htmlandbacon/xgov-eleventy-sample#readme",
+  "homepage": "https://github.com/danhowarthdwp/dwp-health-data-glossary/blob/main/README.md",
   "dependencies": {
     "@11ty/eleventy": "1.0.0",
     "govuk-eleventy-plugin": "1.0.5"
