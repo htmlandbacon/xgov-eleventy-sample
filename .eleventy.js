@@ -10,7 +10,7 @@ module.exports = function(eleventyConfig) {
     markdownTemplateEngine: 'njk',
     dir: {
       // Use layouts from the plugin
-      layouts: '/node_modules/govuk-eleventy-plugin/govuk/layouts'
+      layouts: './node_modules/govuk-eleventy-plugin/layouts'
     }
   }
 };
